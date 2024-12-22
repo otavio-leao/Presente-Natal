@@ -26,6 +26,9 @@ header {
 header > p {
 color: black;
 }
+section#video {
+    margin-bottom: 15px;
+}
 
 section {
     border-radius: 15px;
@@ -49,4 +52,5 @@ footer {
     padding: 5px;
     color: white;
     font-size: 0.8em;
+    text-align: center;
 }
